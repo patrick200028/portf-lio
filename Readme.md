@@ -13,10 +13,9 @@ Este projeto está em **desenvolvimento** e em breve contará com meus trabalhos
 ---
 
 ## 🌐 Acesse meu portfólio online
-👉 [Clique aqui para ver no GitHub Pages](https://patrick200028.github.io/portfolio/)  
+👉 [Clique aqui para ver no GitHub Pages](https://patrick200028.github.io/portf-lio/)  
 
 ---
-
 
 ## 📅 Status do Projeto
 ✅ Estrutura inicial criada (Landing Page responsiva)  
