@@ -1,25 +1,28 @@
-# 🌐 Portfólio - Patrick Silva
+# 🚀 Portfólio em Construção
 
-Bem-vindo ao meu portfólio! 🚀  
-Este projeto é uma **landing page responsiva**, criada para apresentar meus trabalhos, habilidades e formas de contato.
+Bem-vindo ao meu repositório de portfólio!  
+Este projeto está em **desenvolvimento** e em breve contará com meus trabalhos, projetos acadêmicos e experiências na área de **Tecnologia da Informação**.  
 
-## ✨ Sobre Mim
-- 👨‍💻 **Nome:** Patrick Silva  
+---
+
+## 📌 Sobre mim
+- 👨‍💻 **Patrick Silva**  
 - 📧 **Email:** [patrickdomingos400@gmail.com](mailto:patrickdomingos400@gmail.com)  
-- 💼 **LinkedIn:** [Patrick Silva](https://www.linkedin.com/in/patrick-silva-49683a27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 **LinkedIn:** [Patrick Silva](https://www.linkedin.com/in/patrick-silva-49683a27b)  
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
+---
 
-## 🎯 Funcionalidades
-- Layout moderno e responsivo  
-- Botões com efeito hover  
-- Cards de projetos com fade-in ao rolar  
-- Seções para **Sobre**, **Projetos** e **Contato**  
+## 🌐 Acesse meu portfólio online
+👉 [Clique aqui para ver no GitHub Pages](https://patrick200028.github.io/portfolio/)  
 
-## 🚀 Como Rodar Localmente
-1. Clone este repositório:  
-```bash
-git clone https://github.com/patricksilva/portfolio.git
+---
+
+
+## 📅 Status do Projeto
+✅ Estrutura inicial criada (Landing Page responsiva)  
+🔄 Melhorias em andamento (animações, responsividade avançada e projetos reais)  
+🚧 **Em construção – novidades em breve!**
+
+---
+
+✨ Obrigado pela visita! Fique à vontade para acompanhar a evolução do projeto.  
